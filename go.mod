@@ -1,4 +1,4 @@
-module github.com/descope/go-sdk
+module github.com/omercnet/descope-go-sdk
 
 go 1.18
 
